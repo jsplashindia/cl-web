@@ -27,14 +27,14 @@
             "id": "http://crosslegacy.com/videos.html",
             "url": "http://crosslegacy.com/videos.html",
             "title": "Videos",
-            "content_html": "<h2>Dawn of the New Generation</h2>\n<p>Music video of Cross Legacy performing Dawn of the New Generation. From the album, A New Dawn by Cross Legacy. Written and composed by Bijoy Thangaraj. Video directed by Ebey Joseph. © 2015 Cross Legacy.</p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/B1NvPJCvJwc?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"allowfullscreen\"></iframe> </p>\n<h2>I Bow Down</h2>\n<p>Music video by Cross Legacy performing I Bow Down. © 2013 Cross Legacy.</p>\n<p> <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5VC10n7AznA?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+            "content_html": "<h2>Dawn of the New Generation</h2>\n<p>Music video of Cross Legacy performing Dawn of the New Generation. From the album, A New Dawn by Cross Legacy. Written and composed by Bijoy Thangaraj. Video directed by Ebey Joseph. © 2015 Cross Legacy.</p>\n<p><iframe width=\"100%\" height=\"355\" src=\"https://www.youtube.com/embed/B1NvPJCvJwc?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"allowfullscreen\"></iframe> </p>\n<h2>I Bow Down</h2>\n<p>Music video by Cross Legacy performing I Bow Down. © 2013 Cross Legacy.</p>\n<p> <iframe width=\"100%\" height=\"355\" src=\"https://www.youtube.com/embed/5VC10n7AznA?rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
             "author": {
                 "name": "BT"
             },
             "tags": [
             ],
             "date_published": "2018-04-03T22:58:21+05:30",
-            "date_modified": "2018-04-03T23:51:19+05:30"
+            "date_modified": "2018-04-04T10:17:57+05:30"
         }
     ]
 }
