@@ -3,16 +3,16 @@
     <title>cross-legacy</title>
     <link href="http://crosslegacy.com/feed.xml" rel="self" />
     <link href="http://crosslegacy.com" />
-    <updated>2018-04-12T16:41:26+05:30</updated>
+    <updated>2018-04-17T22:52:29+05:30</updated>
     <author>
-        <name>BT</name>
+        <name>Cross Legacy</name>
     </author>
     <id>http://crosslegacy.com</id>
 
     <entry>
         <title>Music</title>
         <author>
-            <name>BT</name>
+            <name>Cross Legacy</name>
         </author>
         <link href="http://crosslegacy.com/music.html"/>
         <id>http://crosslegacy.com/music.html</id>
@@ -30,7 +30,7 @@
     <entry>
         <title>Videos</title>
         <author>
-            <name>BT</name>
+            <name>Cross Legacy</name>
         </author>
         <link href="http://crosslegacy.com/videos.html"/>
         <id>http://crosslegacy.com/videos.html</id>
