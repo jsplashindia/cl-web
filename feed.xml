@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>cross-legacy</title>
-    <link href="http://crosslegacy.com/feed.xml" rel="self" />
-    <link href="http://crosslegacy.com" />
-    <updated>2018-04-17T22:52:29+05:30</updated>
+    <link href="https://crosslegacy.com/feed.xml" rel="self" />
+    <link href="https://crosslegacy.com" />
+    <updated>2018-04-22T22:49:13+05:30</updated>
     <author>
         <name>Cross Legacy</name>
     </author>
-    <id>http://crosslegacy.com</id>
+    <id>https://crosslegacy.com</id>
 
     <entry>
         <title>Music</title>
         <author>
             <name>Cross Legacy</name>
         </author>
-        <link href="http://crosslegacy.com/music.html"/>
-        <id>http://crosslegacy.com/music.html</id>
+        <link href="https://crosslegacy.com/music.html"/>
+        <id>https://crosslegacy.com/music.html</id>
 
         <updated>2018-04-04T12:42:46+05:30</updated>
             <summary></summary>
@@ -32,8 +32,8 @@
         <author>
             <name>Cross Legacy</name>
         </author>
-        <link href="http://crosslegacy.com/videos.html"/>
-        <id>http://crosslegacy.com/videos.html</id>
+        <link href="https://crosslegacy.com/videos.html"/>
+        <id>https://crosslegacy.com/videos.html</id>
 
         <updated>2018-04-04T10:17:57+05:30</updated>
             <summary></summary>
